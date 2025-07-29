@@ -9,7 +9,7 @@ def bottles_of_beer():
         print('Run the command "pip install colorama" in your Python terminal.')
         return
 
-    NUMBER_OF_BOTTLES = 20
+    NUMBER_OF_BOTTLES = 99
 
     bottles = NUMBER_OF_BOTTLES
 
